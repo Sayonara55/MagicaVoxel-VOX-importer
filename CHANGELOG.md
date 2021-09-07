@@ -5,7 +5,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and from v2.2.1 this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [Unreleased]
 
-
+## [2.2.1] - 2021-09-07
+### Added
+- Added [CHANGELOG](CHANGELOG.md) to help document changes made to this importer.
+- Added import of vox file from MagicaVoxel 0.99 and higher
+- 
 ## [2.2.1] - 2019-10-28
 ### Added
 - Added [CHANGELOG](CHANGELOG.md) to help document changes made to this importer.
