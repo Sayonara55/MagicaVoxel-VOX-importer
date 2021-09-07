@@ -25,9 +25,7 @@ With the add-on installed and enabled, the importer can be accessed from `File >
 
 ![Import Menu](https://i.imgur.com/8BsXLnF.png)
 
-**Note**: currently this add-on does not support all the features of `.vox` files created with MagicaVoxel 0.99 and above. If this is the version of MagicaVoxel you are using, you will need to export your file to the older 0.98 format before import.
-
-**This export is destructive**, it will remove layer information and other features that were added in 0.99. It is therefore recommended you export as a separate filename so as to not lose work.
+**Note**: Added import of vox file from MagicaVoxel 0.99 and higher
 
 ![Exporting to Legacy VOX](https://i.imgur.com/WrSOok7.png)
 
